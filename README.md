@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @none-None1
 - 👀 I’m interested in **Python**, **C++** and **esolangs** (especially [brainfuck](https://esolangs.org/wiki/Brainfuck)).
 - 🌱 I’m currently learning esolangs.
-- 💞️ I’m looking to collaborate on ... Not sure yet.
+- 💞️ I’m looking to collaborate on ... Stuff about esolangs.
 - 📫 How to reach me? [At esolangs.org](https://esolangs.org/wiki/User:None1)!
 
 [![None1's GitHub stats](https://github-readme-stats.vercel.app/api?username=none-None1)](https://github.com/anuraghazra/github-readme-stats)
