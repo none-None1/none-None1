@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... Stuff about esolangs.
 - 📫 How to reach me? [At esolangs.org](https://esolangs.org/wiki/User:None1)!
 
+*Note: All of my projects are [public domain](http://creativecommons.org/publicdomain/zero/1.0/) by default*
+
 [![None1's GitHub stats](https://github-readme-stats.vercel.app/api?username=none-None1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=none-None1&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=none-None1&repo=EsoDev)](https://github.com/anuraghazra/github-readme-stats)
